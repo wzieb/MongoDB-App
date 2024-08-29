@@ -10,6 +10,9 @@ In this project, I developed an API for a social network web application using M
 - **Thought Management**: Users can create, update, and delete thoughts. Each thought includes text, a creation timestamp, and is associated with a username.
 - **Reactions**: Thoughts can have reactions (like replies), which are stored as nested documents within the thought. Reactions can be added or removed from thoughts.
 - **Friend Lists**: Users can add and remove friends from their friend lists, with the system updating both users’ friend lists accordingly.
+- 
+## Link to walkthrough video: 
+https://app.screencastify.com/v3/watch/pnMpWInaBfEaeVuDyIKf
 
 ## Models and Schemas
 
